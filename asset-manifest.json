@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f0ac070.chunk.css",
-    "main.js": "/static/js/main.a872c20f.chunk.js",
-    "main.js.map": "/static/js/main.a872c20f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.84e01425.js",
-    "runtime-main.js.map": "/static/js/runtime-main.84e01425.js.map",
-    "static/js/2.7b1de886.chunk.js": "/static/js/2.7b1de886.chunk.js",
-    "static/js/2.7b1de886.chunk.js.map": "/static/js/2.7b1de886.chunk.js.map",
-    "static/js/3.ba39d122.chunk.js": "/static/js/3.ba39d122.chunk.js",
-    "static/js/3.ba39d122.chunk.js.map": "/static/js/3.ba39d122.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1f0ac070.chunk.css.map": "/static/css/main.1f0ac070.chunk.css.map",
-    "static/js/2.7b1de886.chunk.js.LICENSE.txt": "/static/js/2.7b1de886.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/ReactApp_NumberRandom/static/css/main.1f0ac070.chunk.css",
+    "main.js": "/ReactApp_NumberRandom/static/js/main.0b8e8ee7.chunk.js",
+    "main.js.map": "/ReactApp_NumberRandom/static/js/main.0b8e8ee7.chunk.js.map",
+    "runtime-main.js": "/ReactApp_NumberRandom/static/js/runtime-main.e66e284b.js",
+    "runtime-main.js.map": "/ReactApp_NumberRandom/static/js/runtime-main.e66e284b.js.map",
+    "static/js/2.7b1de886.chunk.js": "/ReactApp_NumberRandom/static/js/2.7b1de886.chunk.js",
+    "static/js/2.7b1de886.chunk.js.map": "/ReactApp_NumberRandom/static/js/2.7b1de886.chunk.js.map",
+    "static/js/3.ba39d122.chunk.js": "/ReactApp_NumberRandom/static/js/3.ba39d122.chunk.js",
+    "static/js/3.ba39d122.chunk.js.map": "/ReactApp_NumberRandom/static/js/3.ba39d122.chunk.js.map",
+    "index.html": "/ReactApp_NumberRandom/index.html",
+    "static/css/main.1f0ac070.chunk.css.map": "/ReactApp_NumberRandom/static/css/main.1f0ac070.chunk.css.map",
+    "static/js/2.7b1de886.chunk.js.LICENSE.txt": "/ReactApp_NumberRandom/static/js/2.7b1de886.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ReactApp_NumberRandom/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84e01425.js",
+    "static/js/runtime-main.e66e284b.js",
     "static/js/2.7b1de886.chunk.js",
     "static/css/main.1f0ac070.chunk.css",
-    "static/js/main.a872c20f.chunk.js"
+    "static/js/main.0b8e8ee7.chunk.js"
   ]
 }

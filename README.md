@@ -1,2 +1,0 @@
-# ReactApp_NumberRandom
-NumberRandom
